@@ -406,7 +406,8 @@ padding-right: 1em;
 }
 
 .text2 {
-padding-right: .1em;
+padding-right: .5em;
+padding-left: .5em;
 text-align: center;
 }
 
