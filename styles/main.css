@@ -369,8 +369,8 @@ margin: auto;
 @media screen and (max-width: 600px) {
 
 .courselist {
-padding-right: .1em;
-padding-left: none !important;
+padding-right: .8em;
+padding-left: 2.5em;
 margin-left: none !important;
 }
 
@@ -393,12 +393,12 @@ width: 100% !important;
 }
 
 .mainwidth h2 {
-padding-left: 2em;
+padding-left: 1.5em;
 }
 
 .mainlist {
 padding-right: 1em;
-padding-left: 2em;
+padding-left: 3em;
 }
 
 .text1 {
@@ -406,7 +406,8 @@ padding-right: 1em;
 }
 
 .text2 {
-padding-right: .1em;
+padding-right: .5em;
+padding-left: .5em;
 text-align: center;
 }
 
